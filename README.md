@@ -6,7 +6,7 @@ I'm focused on learning and building practical projects, and improving a little 
 
 This is a profile where I'll be uploading small projects and things I'm currently working on.
 
-🔧 Tools & Tech
+Tools & Tech
 
 - Python
 - HTML
