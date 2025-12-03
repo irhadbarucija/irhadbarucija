@@ -1,4 +1,27 @@
-## Hi there 👋
+## Hello there 👋
+
+I'm Irhad, Python developer based in Sarajevo.
+
+I'm focused on learning and building practical projects, and improving a little every day.
+
+This is a profile where I'll be uploading small projects and things I'm currently working on.
+
+🔧 Tools & Tech
+
+- Python
+- HTML
+- CSS
+- Git & GitHub
+- VS Code, PyCharm
+- Basic backend concepts (APIs, scripts, automation)
+
+A Bit About Me
+
+- I have a wife and a black Labrador
+- I'm a professional violinist (Bachelor's degree)
+- Tech and car enthusiast
+- I like building things that are simple, useful and easy to understand
+- Focused on improving step by step
 
 <!--
 **irhadbarucija/irhadbarucija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
