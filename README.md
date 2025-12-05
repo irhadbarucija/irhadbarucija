@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I'm Irhad, Python developer based in Sarajevo.
+I'm Irhad, Junior Python Developer, based in Sarajevo.
 
 I'm focused on learning and building practical projects, and improving a little every day.
 
