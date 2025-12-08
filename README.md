@@ -9,6 +9,7 @@ This is a profile where I'll be uploading small projects and things I'm currentl
 Tools & Tech
 
 - Python
+- SQL, PostgreSQL
 - HTML
 - CSS
 - Git & GitHub
